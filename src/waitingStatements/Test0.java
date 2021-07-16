@@ -41,11 +41,11 @@ public class Test0 {
 		}
 
 		System.out.println(driver.getCurrentUrl());
-		Thread.sleep(4000);
+		
 		driver.close();
 
 			}
 
 	}
 
-}
+
